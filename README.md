@@ -19,7 +19,7 @@
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=white"/> <img alt="cplusplus" src ="https://img.shields.io/badge/C++-00599C.svg?&style=plastic&logo=cplusplus&logoColor=white"/>
 
-<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white"/> <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=plastic&logo=Jenkins&logoColor=white"/>
+<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white"/> <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=plastic&logo=Jenkins&logoColor=white"/> <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=plastic&logo=Postman&logoColor=white"/>
 
 ### 🌎 IDE 
 
