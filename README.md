@@ -15,7 +15,7 @@
 
 <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=plastic&logo=TensorFlow&logoColor=white"/> <img alt="scikitlearn" src ="https://img.shields.io/badge/SikitLearn-F7931E.svg?&style=plastic&logo=scikitlearn&logoColor=white"/> <img alt="pytorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=plastic&logo=pytorch&logoColor=white"/>
 
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=plastic&logo=openJdk&logoColor=white"/> <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=plastic&logo=Spring Boot&logoColor=white"/> <img alt="JPA" src ="https://img.shields.io/badge/Spring Data JPA-6DB33F.svg?&style=plastic&logo=Spring&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=plastic&logo=MariaDB&logoColor=white"/> 
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=plastic&logo=openJdk&logoColor=white"/> <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=plastic&logo=Spring Boot&logoColor=white"/> <img alt="JPA" src ="https://img.shields.io/badge/Spring Data JPA-6DB33F.svg?&style=plastic&logo=Spring&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=plastic&logo=MariaDB&logoColor=white"/> <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=plastic&logo=Redis&logoColor=white"/>
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=white"/> <img alt="cplusplus" src ="https://img.shields.io/badge/C++-00599C.svg?&style=plastic&logo=cplusplus&logoColor=white"/>
 
